@@ -6,7 +6,7 @@ description:
 
 # User settings
 username: Horacio Gaido
-user_description: Bachelor of Business Administration (BBA) and Master of Business Administration (MBA).
+user_description: Bachelor of Business Administration (BBA) and Master of Business Administration (MBA). Special skills and experience in Business Administration, Controller and Business Intelligence. Critical thinking, decision-making and problem solving skills. Excel, some Python coding, SQL and Tableau. I’m interested in Data Analytics, Data Science, Quantitative Finance and Business Administration. I’m currently learning Python, SQL, Tableau, Power BI and Backend in Python. 
 email:
 twitter_username:
 github_username:  horacio-gaido
@@ -14,6 +14,6 @@ gplus_username:
 
 # Google-analytics
 google-analytics:
-  id: ""
+  id: "G-GDT5C1RPTY"
 
 exclude: ['package.json', 'src' , 'node_modules']
